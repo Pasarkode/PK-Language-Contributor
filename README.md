@@ -1,15 +1,14 @@
 README
 ======
 
-Proyek ini merupakan proyek terbukan untuk pengembangan bahasa tampilan di www.pasarkode.com dimana setiap orang bisa berkontribusi secara langsung, setiap kontributor akan dicantumkan dalam nama pengembangan bahasa.
+This project is a project for the development of language terbukan www.pasarkode.com display in which each person can contribute directly, each contributor will be listed in the name of language development.
 
-Anda bisa menghubungi CEO secara langsung untuk detail pengembangan ini jika ada sesuatu yang belum jelas [The CEO](https://facebook.com/anovanmaximuz) 
+You can contact the master developer directly for detail development [The CEO](https://facebook.com/anovanmaximuz) 
 
 
-Dasar System
+Basic System
 ------------
 
-Proyek ini menggunakan beberapa bahasa pemrograman dan markup seperti CSS3, HTML, Javascript, PHP, jQuery, Ajax dan beberapa plugin yang dikembangkan oleh pihak ke-3 lainnya.
+This project use markup CSS3, HTML, Javascript, PHP, jQuery, Ajax and several plugin which developed by third party.
 
-Basis server menggunakan Apache 2.1, PHP 5+ dengan database MySQL
 
