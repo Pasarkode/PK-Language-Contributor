@@ -1,6 +1,8 @@
 README
 ======
 
+![](http://pasarkode.com/images/pasarkode.com.fb.png)
+
 This project is a project for the development of language www.pasarkode.com display in which each person can contribute directly, each contributor will be listed in the name of language development.
 
 You can contact the master developer directly for detail development [The CEO](https://facebook.com/anovanmaximuz) 
