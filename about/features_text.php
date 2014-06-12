@@ -1,0 +1,7 @@
+<p><strong>Source Code</strong>   all shares source code collection from desktop to web programming, with   shareware, freeware, demo or beta any language provided for simplify the   visitor for read.                  </p>
+                  <p><strong>Submit Code</strong>   everyone can promote/share with their source code by including   information, url, image, price, author name. Free no cost needed.                  </p>
+                  <p><strong>Projects</strong>     if you're a developer or company which have project open for all   visitor programmer, you can submit the project specification and you   must shared more 50 source code before we accepted your project   submission.                  </p>
+                  <p><strong>Jobs</strong>   jobs vacancy posted here, for employe or companies..                  </p>
+                  <p><strong>Tools</strong>   tool   for help you to check whois domain, ping, speed test for internet   connection, browser and system information, showcase changes.                  </p>
+                  <p><strong>Download</strong>   downloadable list..                  </p>
+                  <p><strong>Index</strong>   indexing the source code by A to Z</p>
