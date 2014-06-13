@@ -8,6 +8,7 @@ $text_home_change_log        = 'Change Log';
 $text_home_faq               = 'FAQ';
 $text_home_link_to_us        = 'Link to Us';
 $text_home_contact           = 'Contact';
+$text_social                 = 'Socials';
 
 //SOURCE CODE
 $text_source_code            ='Open Code';

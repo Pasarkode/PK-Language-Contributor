@@ -7,6 +7,7 @@ $lang_file_structure_is_a_folder= 'is a Folder';
 $lang_file_structure_is_gray    = 'Gray';
 $lang_file_structure_is_a_file  = 'is a File';
 $lang_our_contributors          = 'Our Contributors';
+$lang_lang_log                  = 'Language Changelog';
 $lang_our_contributors_contact  = 'For help & more information please contact:';
 
 $lang_con_title                 = 'Contributor Documentation';

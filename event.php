@@ -4,6 +4,7 @@ $event_title                      ='Events';
 $event_calendar_back              ='Back';
 $event_calendar_next              ='Next';
 $event_active_event_title         ='Active Event';
+$event_inactive_title             = 'Expired Events';
 $event_no_active_events           ='No Active Events ';
 $event_listing_activity_title     ='Listing Activity';
 $event_location                   ='Location: ';
