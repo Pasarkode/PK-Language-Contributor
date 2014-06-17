@@ -20,6 +20,9 @@ $meta_about                    = 'About Pasar Kode';
 $meta_about_desc               = 'Common Source For Everyone - A portal that has dedication and concentration in the 
                                   development of computer programming and more resource for help people such as open 
 								  project, jobs, question & answer, additional tools, and many more.';
+$meta_rss					   = 'RSS';
+$meta_rss_desc 				   = 'Keep up to date of Source Code in Pasarkode.com, we use RSS v.2.0';			  
+								  
 $meta_author                   = 'Authors';
 $meta_author_desc              = 'Best authors of Pasar Kode';
 $meta_index                    = 'Index of Source Code';
