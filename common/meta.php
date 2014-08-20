@@ -5,6 +5,10 @@ $meta_master_desc              = 'Box of Source Code - A portal that has dedicat
 //PAGE
 $meta_change_log               = 'Historis of Change';
 $meta_change_log_desc          = 'Log Historis Change of Pasar Kode';
+
+$meta_jobs               	   = 'Jobs ';
+$meta_jobs_desc          	   = 'Information update for jobs vacancy';
+
 $meta_contact                  = 'Contact Pasar Kode';
 $meta_contact_desc             = 'Contact Pasar Kode : 3rd Kebun Pala , Tanah Abang or Tahmrin City,Jakarta Pusat, ID 94107 +62 (021) 931-29557  ';
 $meta_event                    = 'Events';
@@ -20,9 +24,6 @@ $meta_about                    = 'About Pasar Kode';
 $meta_about_desc               = 'Common Source For Everyone - A portal that has dedication and concentration in the 
                                   development of computer programming and more resource for help people such as open 
 								  project, jobs, question & answer, additional tools, and many more.';
-$meta_rss					   = 'RSS';
-$meta_rss_desc 				   = 'Keep up to date of Source Code in Pasarkode.com, we use RSS v.2.0';			  
-								  
 $meta_author                   = 'Authors';
 $meta_author_desc              = 'Best authors of Pasar Kode';
 $meta_index                    = 'Index of Source Code';

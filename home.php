@@ -33,7 +33,7 @@ $home_title_newest		      ='Newest Code';
 
 //route
 $home_route_1_title           ='From Programmer';
-$home_route_1_text            ='A programmer create program, project, research the computer programming langauge.';
+$home_route_1_text            ='A programmer create program, project, research the computer programming language.';
 $home_route_2_title           ='Share Code';
 $home_route_2_text            ='Everyone share their source code to the global community with pasarkode.com in facebook, twitter, google, etc.';
 $home_route_3_title           ='To Programmer';              

@@ -1,7 +1,7 @@
 <?php
 //CHANGE LOG 
 $log_title                        ='Change Log History';
-$log_text                         ='For more profesional every changes  make this website is easy and   powerfull functionaly, we always hear your speak about pasar kode and   give a <a href="http://localhost:8080/olpk/web/feedback.code">feedback</a> to us.';
+$log_text                         ='For more profesional every changes  make this website is easy and   powerful  functionally, we always hear your speak about pasar kode and   give a <a href="http://localhost:8080/olpk/web/feedback.code">feedback</a> to us.';
 
 //MONTH NAME
 $month_january                    ='January';

@@ -33,7 +33,7 @@ $text_our_works_list3		 ='List 3';
 $text_our_works_list4	     ='List 4';
 
 //LANGUAGE
-$text_language				 ='Language';
+$text_language				 ='<!--<img src="assets/img/authors/flags/us.png">-->Language';
 $text_lang_01	     		 ='English';
 $text_lang_02				 ='Indonesia';
 $text_language_be			 ='Be a Language Contributor';

@@ -15,4 +15,8 @@ $text_slider_10              = 'What else included ?';
 $text_slider_11              = 'Maximum User Experiences'; 
 $text_slider_12              = 'Easy web exploration<br> you can search and do more.'; 
 
+$text_slider_13              = 'Content Share <span style="font-weight:bold; color:red">API</span> ';
+$text_slider_14              = 'all content will appear in your web applications';
+$text_slider_15              = 'Bringing a wealth of PasarKode to your own web <br>
+								 site with a simple XML and JSON format.';
 ?>
